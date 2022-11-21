@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\cv_1priklad_Lekce_19_OOP\cv_1priklad_Lekce_19_OOP\bin\Debug\cv_1priklad_Lekce_19_OOP.exe.config
+C:\Users\Analytik\source\repos\cv_1priklad_Lekce_19_OOP\cv_1priklad_Lekce_19_OOP\bin\Debug\cv_1priklad_Lekce_19_OOP.exe
+C:\Users\Analytik\source\repos\cv_1priklad_Lekce_19_OOP\cv_1priklad_Lekce_19_OOP\bin\Debug\cv_1priklad_Lekce_19_OOP.pdb
+C:\Users\Analytik\source\repos\cv_1priklad_Lekce_19_OOP\cv_1priklad_Lekce_19_OOP\obj\Debug\cv_1priklad_Lekce_19_OOP.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\cv_1priklad_Lekce_19_OOP\cv_1priklad_Lekce_19_OOP\obj\Debug\cv_1priklad_Lekce_19_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\cv_1priklad_Lekce_19_OOP\cv_1priklad_Lekce_19_OOP\obj\Debug\cv_1priklad_Lekce_19_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\cv_1priklad_Lekce_19_OOP\cv_1priklad_Lekce_19_OOP\obj\Debug\cv_1priklad_Lekce_19_OOP.exe
+C:\Users\Analytik\source\repos\cv_1priklad_Lekce_19_OOP\cv_1priklad_Lekce_19_OOP\obj\Debug\cv_1priklad_Lekce_19_OOP.pdb

@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\Lekce19_3_priklad_cv_OPP\Lekce19_3_priklad_cv_OPP\bin\Debug\Lekce19_3_priklad_cv_OPP.exe.config
+C:\Users\Analytik\source\repos\Lekce19_3_priklad_cv_OPP\Lekce19_3_priklad_cv_OPP\bin\Debug\Lekce19_3_priklad_cv_OPP.exe
+C:\Users\Analytik\source\repos\Lekce19_3_priklad_cv_OPP\Lekce19_3_priklad_cv_OPP\bin\Debug\Lekce19_3_priklad_cv_OPP.pdb
+C:\Users\Analytik\source\repos\Lekce19_3_priklad_cv_OPP\Lekce19_3_priklad_cv_OPP\obj\Debug\Lekce19_3_priklad_cv_OPP.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\Lekce19_3_priklad_cv_OPP\Lekce19_3_priklad_cv_OPP\obj\Debug\Lekce19_3_priklad_cv_OPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\Lekce19_3_priklad_cv_OPP\Lekce19_3_priklad_cv_OPP\obj\Debug\Lekce19_3_priklad_cv_OPP.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\Lekce19_3_priklad_cv_OPP\Lekce19_3_priklad_cv_OPP\obj\Debug\Lekce19_3_priklad_cv_OPP.exe
+C:\Users\Analytik\source\repos\Lekce19_3_priklad_cv_OPP\Lekce19_3_priklad_cv_OPP\obj\Debug\Lekce19_3_priklad_cv_OPP.pdb

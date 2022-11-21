@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\Priklad_1_k_lekci14-16OOP\Priklad_1_k_lekci14-16OOP\obj\Debug\Priklad_1_k_lekci14-16OOP.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\Priklad_1_k_lekci14-16OOP\Priklad_1_k_lekci14-16OOP\obj\Debug\Priklad_1_k_lekci14-16OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\Priklad_1_k_lekci14-16OOP\Priklad_1_k_lekci14-16OOP\obj\Debug\Priklad_1_k_lekci14-16OOP.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\Priklad_1_k_lekci14-16OOP\Priklad_1_k_lekci14-16OOP\bin\Debug\Priklad_1_k_lekci14-16OOP.exe.config
+C:\Users\Analytik\source\repos\Priklad_1_k_lekci14-16OOP\Priklad_1_k_lekci14-16OOP\bin\Debug\Priklad_1_k_lekci14-16OOP.exe
+C:\Users\Analytik\source\repos\Priklad_1_k_lekci14-16OOP\Priklad_1_k_lekci14-16OOP\bin\Debug\Priklad_1_k_lekci14-16OOP.pdb
+C:\Users\Analytik\source\repos\Priklad_1_k_lekci14-16OOP\Priklad_1_k_lekci14-16OOP\obj\Debug\Priklad_1_k_lekci14-16OOP.exe
+C:\Users\Analytik\source\repos\Priklad_1_k_lekci14-16OOP\Priklad_1_k_lekci14-16OOP\obj\Debug\Priklad_1_k_lekci14-16OOP.pdb
