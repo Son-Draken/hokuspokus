@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\3priklad_lekce_17_18_OOP\3priklad_lekce_17_18_OOP\bin\Debug\3priklad_lekce_17_18_OOP.exe.config
+C:\Users\Analytik\source\repos\3priklad_lekce_17_18_OOP\3priklad_lekce_17_18_OOP\bin\Debug\3priklad_lekce_17_18_OOP.exe
+C:\Users\Analytik\source\repos\3priklad_lekce_17_18_OOP\3priklad_lekce_17_18_OOP\bin\Debug\3priklad_lekce_17_18_OOP.pdb
+C:\Users\Analytik\source\repos\3priklad_lekce_17_18_OOP\3priklad_lekce_17_18_OOP\obj\Debug\3priklad_lekce_17_18_OOP.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\3priklad_lekce_17_18_OOP\3priklad_lekce_17_18_OOP\obj\Debug\3priklad_lekce_17_18_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\3priklad_lekce_17_18_OOP\3priklad_lekce_17_18_OOP\obj\Debug\3priklad_lekce_17_18_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\3priklad_lekce_17_18_OOP\3priklad_lekce_17_18_OOP\obj\Debug\3priklad_lekce_17_18_OOP.exe
+C:\Users\Analytik\source\repos\3priklad_lekce_17_18_OOP\3priklad_lekce_17_18_OOP\obj\Debug\3priklad_lekce_17_18_OOP.pdb

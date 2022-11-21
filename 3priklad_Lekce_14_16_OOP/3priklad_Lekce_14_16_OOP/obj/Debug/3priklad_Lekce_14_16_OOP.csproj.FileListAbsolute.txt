@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\3priklad_Lekce_14_16_OOP\3priklad_Lekce_14_16_OOP\bin\Debug\3priklad_Lekce_14_16_OOP.exe.config
+C:\Users\Analytik\source\repos\3priklad_Lekce_14_16_OOP\3priklad_Lekce_14_16_OOP\bin\Debug\3priklad_Lekce_14_16_OOP.exe
+C:\Users\Analytik\source\repos\3priklad_Lekce_14_16_OOP\3priklad_Lekce_14_16_OOP\bin\Debug\3priklad_Lekce_14_16_OOP.pdb
+C:\Users\Analytik\source\repos\3priklad_Lekce_14_16_OOP\3priklad_Lekce_14_16_OOP\obj\Debug\3priklad_Lekce_14_16_OOP.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\3priklad_Lekce_14_16_OOP\3priklad_Lekce_14_16_OOP\obj\Debug\3priklad_Lekce_14_16_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\3priklad_Lekce_14_16_OOP\3priklad_Lekce_14_16_OOP\obj\Debug\3priklad_Lekce_14_16_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\3priklad_Lekce_14_16_OOP\3priklad_Lekce_14_16_OOP\obj\Debug\3priklad_Lekce_14_16_OOP.exe
+C:\Users\Analytik\source\repos\3priklad_Lekce_14_16_OOP\3priklad_Lekce_14_16_OOP\obj\Debug\3priklad_Lekce_14_16_OOP.pdb
